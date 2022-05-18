@@ -1,0 +1,14 @@
+{
+	"name": "kolo2021-poprawa",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.15.0"
+	},
+	"scripts": {
+		"zad1": "node src/zadanie1.js",
+		"zad2": "node src/zadanie2.js",
+		"zad3": "node src/zadanie3.js"
+	}
+}

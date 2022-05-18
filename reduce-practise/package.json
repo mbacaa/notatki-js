@@ -1,0 +1,14 @@
+{
+	"name": "reduce-practise",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"eslint": "^8.15.0",
+		"prettier": "2.6.2"
+	},
+	"scripts": {
+		"zad1": "node src/zad1",
+		"zad2": "node src/zad2"
+	}
+}

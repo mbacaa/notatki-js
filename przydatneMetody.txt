@@ -1,0 +1,10 @@
+niektóre są tylko lodashowe
+
+- map
+- filter
+- reduce
+- sort
+- every
+- indexOf
+- find
+- findIndex
